@@ -23,8 +23,8 @@ love_date = "2022-2-19"
 #结婚日期
 marry_date = "2022-11-20"
 #最近一次生理期开始时间
-last = "2023-6-27"
+last = "2023-7-29"
 #生理期周期
-periodd_cycle = 30
+periodd_cycle = 28
 #生理期持续天数
 period_days = 7

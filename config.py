@@ -1,4 +1,4 @@
-# 公众号配置	
+-# 公众号配置	
 # 公众号appId
 app_id = "wx63d75ea0abe30781"
 # 公众号appSecret
@@ -23,8 +23,8 @@ love_date = "2022-2-19"
 #结婚日期
 marry_date = "2022-11-20"
 #最近一次生理期开始时间
-last = "2023-10-26"
+last = "2023-10-27"
 #生理期周期
-periodd_cycle = 28
+periodd_cycle = 30
 #生理期持续天数
 period_days = 7

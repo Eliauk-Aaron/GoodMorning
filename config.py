@@ -1,4 +1,4 @@
--# 公众号配置	
+# 公众号配置	
 # 公众号appId
 app_id = "wx63d75ea0abe30781"
 # 公众号appSecret
